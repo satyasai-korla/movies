@@ -11,7 +11,7 @@ from cloudant.security_document import SecurityDocument
 from requests.exceptions import HTTPError
 
 CL_URL      = app.config['CL_URL']
-CL_AUTH     = app.config['CL_AUTH']
+CL_AUTH     = app.config['CL_AUTH']sdfghjkl;
 CL_MOVIEDB  = app.config['CL_MOVIEDB']
 CL_AUTHDB   = app.config['CL_AUTHDB']
 CL_RATINGDB = app.config['CL_RATINGDB']
